@@ -1,5 +1,6 @@
-# codepath-nytimes-app - MBDS
-###########################################################################################################
+# nytimes-app - MBDS
+***************************************************************************************************************
+***************************************************************************************************************
 ## User Stories
 
 The following **required** functionality is completed:
@@ -14,7 +15,7 @@ The following **required** functionality is completed:
 * [x] News desk values (Arts, Fashion & Style, Sports)
 * [x] User can tap on any image in results to see the full text of article **full-screen**
 
-##########################################################################################################
+***************************************************************************************************************
 Optional features implemented:
 
 * [x] Replaced Filter Settings Activity with a lightweight modal overlay
@@ -22,7 +23,7 @@ Optional features implemented:
 * [x] Improved the user interface and experiment with image assets and/or styling and coloring
 * [x] User can **share an article link** to their friends or email it to themselves
 * [x] Implements robust error handling.
-##########################################################################################################
+***************************************************************************************************************
 
 Bonus features implemented:
 
